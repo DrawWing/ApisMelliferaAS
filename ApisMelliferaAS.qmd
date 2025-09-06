@@ -1,6 +1,6 @@
 ---
 title: "Variation of honey bee wings in southwestern Asia"
-subtitle: "Supplementary document with statistical analysis"
+subtitle: "<https://github.com/DrawWing/Apis-mellifera-Asia>"
 author: 
   - name: "Julita Machlowska"
     affiliation: University of Agriculture in Krakow, Poland
